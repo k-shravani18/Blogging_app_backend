@@ -1,4 +1,4 @@
-package com.blog.Blogging_SSO_System.config;
+package com.blog.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
